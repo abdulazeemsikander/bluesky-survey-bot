@@ -1,0 +1,7 @@
+{INTRO}
+
+Participate here: {LINK}
+
+{FOOTER}
+
+{HASHTAGS}

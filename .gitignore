@@ -21,3 +21,16 @@ automation/.env
 .DS_Store
 .vscode/
 .idea/
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtualenv
+.venv/
+
+# Secrets
+*.env
+
+# Logs
+logs/
